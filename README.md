@@ -3,7 +3,6 @@
 **Lead Full Stack Engineer | 14+ Years Building Scalable, Production-Ready Systems**
 
 [![Website](https://img.shields.io/badge/Portfolio-haresh.dev-blue?style=flat&logo=google-chrome)](https://haresh.dev)
-[![Twitter/X](https://img.shields.io/badge/Twitter-hari14july-1DA1F2?style=flat&logo=twitter)](https://twitter.com/hari14july)
 [![Contact](https://img.shields.io/badge/Email-hari14july@gmail.com-red?style=flat&logo=gmail)](mailto:hari14july@gmail.com)
 
 As an engineering leader with over 14 years of experience, I specialize in taking complex business requirements and translating them into robust, high-performance software. From scaling enterprise Java systems to building AI-native RAG applications, my focus is always on **delivering scalable, maintainable, and business-critical solutions**.
@@ -35,9 +34,9 @@ Top-tier engineering requires flexibility and depth. I bring production-hardened
 
 ## 📈 Featured Engineering Work
 
-* **[Upsell.com (ex ReConvert)](https://haresh.dev)**: Contributed to the leading Shopify upsell app. Built highly reliable backend workflows handling massive e-commerce transaction volumes and integrations.
-* **[Contexta.ai](https://haresh.dev)**: Engineered an AI-native RAG SaaS leveraging Next.js, LLMs, and Supabase. Designed a modular backend featuring scalable vector search, streaming inference, and secure multi-tenant architecture.
-* **[MadChef](https://haresh.dev)**: Developed an end-to-end food ordering platform bridging restaurants and distributors with algorithm-driven draft orders based on complex pricing sheets.
+* **[Upsell.com (ex ReConvert)](https://upsell.com)**: Contributed to the leading Shopify upsell app. Built highly reliable backend workflows handling massive e-commerce transaction volumes and integrations.
+* **[Contexta.ai](https://contexta-ai.haresh.dev)**: Engineered an AI-native RAG SaaS leveraging Next.js, LLMs, and Supabase. Designed a modular backend featuring scalable vector search, streaming inference, and secure multi-tenant architecture.
+* **[MadChef](https://www.madchef.com)**: Developed an end-to-end food ordering platform bridging restaurants and distributors with algorithm-driven draft orders based on complex pricing sheets.
 
 ---
 
