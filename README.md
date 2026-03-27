@@ -1,106 +1,60 @@
-# 👋 Hi, I'm Haresh
 
-Senior Full Stack Engineer | 13+ Years Experience  
-Building scalable systems, SaaS products, and now AI-powered applications.
+# Hi, I'm Haresh Godhani 👋
+**Lead Full Stack Engineer | 14+ Years Building Scalable, Production-Ready Systems**
 
-🌐 https://haresh.dev  
-💻 https://github.com/haresh14  
+[![Website](https://img.shields.io/badge/Portfolio-haresh.dev-blue?style=flat&logo=google-chrome)](https://haresh.dev)
+[![Twitter/X](https://img.shields.io/badge/Twitter-hari14july-1DA1F2?style=flat&logo=twitter)](https://twitter.com/hari14july)
+[![Contact](https://img.shields.io/badge/Email-hari14july@gmail.com-red?style=flat&logo=gmail)](mailto:hari14july@gmail.com)
 
----
+As an engineering leader with over 14 years of experience, I specialize in taking complex business requirements and translating them into robust, high-performance software. From scaling enterprise Java systems to building AI-native RAG applications, my focus is always on **delivering scalable, maintainable, and business-critical solutions**.
 
-## 🧩 About Me
-
-I’m an engineer who enjoys solving **real-world problems at scale**.
-
-Over the past 13+ years, I’ve worked across multiple stacks and domains — not just shipping features, but designing systems that are **reliable, maintainable, and production-ready**.
-
-Lately, I’ve been focused on building **AI-first applications**, combining LLMs with solid backend architecture to create useful, usable products.
+If you're looking for a technical leader who owns features end-to-end, mentors engineering teams, and builds for production then you're in the right place.
 
 ---
 
-## ⚙️ Core Expertise
+## 🚀 Executive Summary
 
-- Architecting and building **scalable full-stack applications**
-- Designing **clean backend systems (APIs, microservices, data layers)**
-- Performance optimization & system reliability
-- Turning product ideas into **production-grade SaaS**
-- Integrating **AI (LLMs, RAG, embeddings)** into real applications
-
----
-
-## 🛠️ Tech I Work With
-
-**Frontend**
-- React.js, Next.js, Angular
-- TypeScript, modern UI systems
-
-**Backend**
-- Node.js (Express, NestJS)
-- Java (Spring Boot)
-
-**Data Layer**
-- PostgreSQL, MySQL, MongoDB
-- Redis for caching & performance
-
-**Infrastructure**
-- Docker, CI/CD
-- Vercel, Render, Cloudflare
-
-**AI Stack**
-- OpenAI APIs
-- Retrieval-Augmented Generation (RAG)
-- Vector-based search systems
+* **14+ Years of Full-Stack Delivery:** Deep expertise spanning enterprise Java/Spring Boot development to modern Node.js/Next.js ecosystems. 
+* **Leadership & Mentoring:** 9-year tenure at OneIT growing from Java Developer to Lead Senior Developer. I have a proven track record of guiding cross-functional teams, establishing CI/CD pipelines, and enforcing strict code quality standards.
+* **Scale & Impact:** Architected and scaled systems for high-traffic environments, including Upsell.com (trusted by 40,000+ merchants, processing $2.8B+ in revenue) and complex ad-tech/fintech workflows (Chargeback Gurus, GenieWords).
+* **Applied AI Integration:** Currently focused on building practical, AI-native applications, including RAG-based SaaS platforms, multi-workspace agentic workflows, and LLM API integrations.
 
 ---
 
-## 🚀 Current Focus
+## 💻 Technical Arsenal
 
-### AI SaaS — Chat with Your Documents
-A real-world RAG-based application where users can upload documents and interact with them conversationally.
+Top-tier engineering requires flexibility and depth. I bring production-hardened experience across:
 
-**What I'm emphasizing:**
-- Production-ready architecture
-- Scalability of embeddings & queries
-- Clean UX around AI interactions
-
----
-
-## 🧠 How I Think as an Engineer
-
-- Build for **scale from day one**
-- Keep systems **simple and predictable**
-- Prioritize **readability over cleverness**
-- Focus on **long-term maintainability**
-- Treat performance as a **feature, not an afterthought**
+* **AI & Data:** LLMs, Retrieval-Augmented Generation (RAG), Vector Databases, OpenAI
+* **Frontend:** React.js, Next.js, Angular, TypeScript, Ionic
+* **Backend:** Node.js (NestJS, Express, Fastify), Java (Spring Boot)
+* **Database & Cloud:** PostgreSQL, MongoDB, MySQL, AWS, GCP, Firebase, Supabase
+* **DevOps & Architecture:** Docker, CI/CD (Jenkins, GitHub Actions), Microservices, API Design, Complex Integrations (Stripe, Google/Meta Ads, Ethoca)
 
 ---
 
-## 📂 What You’ll See Here
+## 📈 Featured Engineering Work
 
-- Thoughtfully structured projects (not tutorial dumps)
-- Full-stack implementations with real architecture
-- AI + SaaS experiments with practical value
-- Clean and readable code
-
----
-
-## 🎯 What I’m Looking For
-
-- Senior Engineer / Staff-level opportunities
-- Backend-heavy or full-stack roles
-- Teams building meaningful products (especially AI-driven)
-- Remote-first or global teams
+* **[Upsell.com (ex ReConvert)](https://haresh.dev)**: Contributed to the leading Shopify upsell app. Built highly reliable backend workflows handling massive e-commerce transaction volumes and integrations.
+* **[Contexta.ai](https://haresh.dev)**: Engineered an AI-native RAG SaaS leveraging Next.js, LLMs, and Supabase. Designed a modular backend featuring scalable vector search, streaming inference, and secure multi-tenant architecture.
+* **[MadChef](https://haresh.dev)**: Developed an end-to-end food ordering platform bridging restaurants and distributors with algorithm-driven draft orders based on complex pricing sheets.
 
 ---
 
-## 📫 Reach Out
+## 🧠 My Engineering Philosophy
 
-If you're building something interesting or hiring for impactful roles:
-
-👉 https://haresh.dev  
+* **Build for Scale from Day One:** Systems must be designed anticipating growth, ensuring minimal technical debt and clear architectural boundaries.
+* **Predictability over Cleverness:** Readable, strictly typed, and thoroughly tested code beats complex, undocumented "hacks" every time.
+* **Ship Business Value:** Code is a tool to solve business problems. Whether it's reducing manual ops via marketing automation or cutting response times in fintech integrations, ROI matters.
+* **Automate Everything:** If a workflow saves time—from CI/CD deployments to automated code reviews—it belongs in the pipeline.
 
 ---
 
-## ⚡ One Line About Me
+## 📫 Let's Connect
 
-I build software that **works in production — not just in demos**.
+I am currently open to **Senior / Staff-level Engineering** and **Technical Lead** roles, especially those tackling complex scale, system integrations, or AI-driven product development. 
+
+* 🌐 **Portfolio & Case Studies:** [haresh.dev](https://haresh.dev)
+* ✉️ **Email:** hari14july@gmail.com
+
+> *"I build software that works in production — not just in demos."*
